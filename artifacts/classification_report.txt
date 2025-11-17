@@ -1,0 +1,11 @@
+                               precision    recall  f1-score   support
+
+                       Caries     0.8409    0.4664    0.6000       238
+                   Gingivitis     0.9420    0.8979    0.9194       235
+                   Hypodontia     0.8583    0.8720    0.8651       125
+                  Mouth Ulcer     0.7584    0.9764    0.8537       254
+Tooth_discoloration_augmented     0.6711    0.8251    0.7402       183
+
+                     accuracy                         0.8019      1035
+                    macro avg     0.8141    0.8076    0.7957      1035
+                 weighted avg     0.8157    0.8019    0.7916      1035
